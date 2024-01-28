@@ -1,8 +1,8 @@
-# Cálculadora de Engrenagens - Gear ratio calculator
+# Calculadora de Engrenagens - Gear ratio calculator
 
 ## Sobre o Projeto
 
-Este projeto é uma aplicação Python com interface gráfica Tkinter. Seu principal objetivo é calcular combinações de engrenagens que atendam a uma relação desejada. A aplicação é particularmente útil para identificar conjuntos de engrenagens adequados para máquinas de geração de dentes convencionais.
+Este projeto é uma aplicação Python com interface gráfica Tkinter. Seu principal objetivo é calcular a relação e a combinações de engrenagens. A aplicação é particularmente útil para identificar conjuntos de engrenagens adequados para máquinas de geração de dentes convencionais. Com apenas informaçoes básicas como a constante da máquina, angulo de hélice e módulo, pode se obter a relação.
 
 ## Complexidade do Cálculo de Engrenagens
 
@@ -19,6 +19,10 @@ O cálculo de combinações de engrenagens envolve considerações complexas, in
 <img  alt="Gear ratio calculator CoroPlus®"  src=".github/preview.gif"  width="100%">
 
 </p>
+
+-**Observações**: 
+- O angulo de hélice deve ser informado em decimal, exemplo 18° 30', deve ser informado 18,5 graus.
+- Se o perfil do dentado for diametral pitch, deve ser convertido para módulo.
 
 ## Tecnologias Utilizadas
 
