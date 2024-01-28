@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é uma aplicação Python com interface gráfica Tkinter. Seu principal objetivo é calcular a relação e a combinações de engrenagens. A aplicação é particularmente útil para identificar conjuntos de engrenagens adequados para máquinas de geração de dentes convencionais. Com apenas informaçoes básicas como a constante da máquina, angulo de hélice e módulo, pode se obter a relação.
+Este projeto consiste em uma aplicação Python que utiliza a interface gráfica Tkinter, sendo projetado especificamente para calcular a relação de recâmbio de diferenciais e identificar combinações de engrenagens adequadas. Essencial para a seleção de conjuntos de engrenagens em máquinas convencionais de fabricação de dentes, este aplicativo simplifica o processo ao exigir apenas informações fundamentais como a constante da máquina, ângulo de hélice e módulo para determinar a relação necessária.
 
 ## Complexidade do Cálculo de Engrenagens
 
