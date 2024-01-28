@@ -20,7 +20,7 @@ O cálculo de combinações de engrenagens envolve considerações complexas, in
 
 </p>
 
--**Observações**: 
+**Observações**: 
 - O angulo de hélice deve ser informado em decimal, exemplo 18° 30', deve ser informado 18,5 graus.
 - Se o perfil do dentado for diametral pitch, deve ser convertido para módulo.
 
