@@ -16,7 +16,7 @@ O cálculo de combinações de engrenagens envolve considerações complexas, in
 
 <p  align="center">
 
-<img  alt="Gear ratio calculator CoroPlus®"  src=".github/preview.gif"  width="100%">
+<img  alt="Gear ratio calculator"  src=".github/preview.gif"  width="100%">
 
 </p>
 
