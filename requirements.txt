@@ -1,1 +1,1 @@
-pyinstaller # somente se for criar um arquivo executável
+ pyinstaller # somente se for criar um arquivo executável
